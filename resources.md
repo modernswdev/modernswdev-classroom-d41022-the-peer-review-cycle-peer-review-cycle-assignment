@@ -10,4 +10,4 @@ This IBM article covers the difference between the Agile and Waterfall methods, 
 This article from Northeastern University lists some of the differences between the relatively similar Agile and Scrum methods, helping further refine what development method might be best for a particular project. 
 
 ## [Project Libre](https://www.projectlibre.com/)
-Project Libre is a tool for creating diagrams, including Gantt charts that are useful for project management.
+Project Libre is a tool for creating diagrams, including Gantt charts that are useful for project management. 
