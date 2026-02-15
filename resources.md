@@ -1,16 +1,22 @@
-## Git and GitHub for Beginners - Crash Course
-This is a beginner friendly YouTube tutorial that walks you through the basics of Git/GitHub.
+# Modern Software Development & GitHub Resources
 
-[Git and Github for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
-
+## GitHub Docs
+Official documentation that explains repositories, branching strategies, pull requests, issues, and GitHub Actions for CI/CD.
+[Visit GitHub Docs](https://docs.github.com/)
 
 ## GitHub Skills
-This is a resource offered by GitHub full of interactive lessons and exercises. 
+Interactive, hands-on tutorials that teach real-world GitHub workflows like pull requests, merge conflict resolution, and automation.
+[Try GitHub Skills](https://skills.github.com/)
 
-[GitHub Skills](https://github.com/skills)
+## Atlassian Agile Coach
+A comprehensive guide covering Scrum, Kanban, sprint planning, and other Agile practices used in modern development teams.
+[Visit Atlassian Agile Coach](https://www.atlassian.com/agile)
 
+## Docker Documentation
+Comprehensive free guides for learning containerization and deploying applications consistently across environments.
+[Visit Docker Docs](https://docs.docker.com/)
 
-## Free Coding Resources
-This is a website from freecodecamp.org, it provides lessons and exercises with several different kinds of coding languages.
+## GitHub Actions Documentation
+Official documentation explaining how to automate testing, building, and deployment using CI/CD workflows.
+[Learn About GitHub Actions](https://docs.github.com/en/actions)
 
-[Free Code Camp](https://www.freecodecamp.org/)
